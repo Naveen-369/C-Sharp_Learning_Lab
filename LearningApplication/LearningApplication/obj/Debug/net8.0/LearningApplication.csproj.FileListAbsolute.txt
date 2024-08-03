@@ -1,0 +1,14 @@
+E:\CSharpLearning\LearningApplication\LearningApplication\bin\Debug\net8.0\LearningApplication.exe
+E:\CSharpLearning\LearningApplication\LearningApplication\bin\Debug\net8.0\LearningApplication.deps.json
+E:\CSharpLearning\LearningApplication\LearningApplication\bin\Debug\net8.0\LearningApplication.runtimeconfig.json
+E:\CSharpLearning\LearningApplication\LearningApplication\bin\Debug\net8.0\LearningApplication.dll
+E:\CSharpLearning\LearningApplication\LearningApplication\bin\Debug\net8.0\LearningApplication.pdb
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.AssemblyInfoInputs.cache
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.AssemblyInfo.cs
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.csproj.CoreCompileInputs.cache
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.dll
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\refint\LearningApplication.dll
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.pdb
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\LearningApplication.genruntimeconfig.cache
+E:\CSharpLearning\LearningApplication\LearningApplication\obj\Debug\net8.0\ref\LearningApplication.dll

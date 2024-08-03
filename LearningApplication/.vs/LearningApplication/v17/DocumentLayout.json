@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharpLearning\\LearningApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B8E3B1-274E-4FAF-A516-C38FF9769B36}|LearningApplication\\LearningApplication.csproj|e:\\csharplearning\\learningapplication\\learningapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B8E3B1-274E-4FAF-A516-C38FF9769B36}|LearningApplication\\LearningApplication.csproj|solutionrelative:learningapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSharpLearning\\LearningApplication\\LearningApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LearningApplication\\Program.cs",
+              "ToolTip": "E:\\CSharpLearning\\LearningApplication\\LearningApplication\\Program.cs",
+              "RelativeToolTip": "LearningApplication\\Program.cs",
+              "ViewState": "AQIAAOIBAAAAAAAAAAAiwPIBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:55:26.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
